@@ -1,4 +1,5 @@
-# # qno.6
+#variables , numbers ,strings
+#  # qno.6
 # sentence = "I like apple"
 # char = len(sentence)
 # num = len(sentence.split())

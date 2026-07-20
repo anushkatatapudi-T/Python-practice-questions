@@ -39,7 +39,7 @@ if num%2 == 0:
 else :
     print("Odd number")
 
-#day-1
+#day-1 (variables,print,input,commments)
 print("5"+"5") #"inside this is a character not a number "
 print(5+5) # it is not inside a string and it is a number(integer)
 #because it allows the string to join together
