@@ -27,3 +27,28 @@ def print_list(list):
     for item in list:
         print(item,end=" ")
 print_list(city)        
+
+
+# factoial
+def cal(n):
+    fact=1
+    for i in range(1,n+1):
+        fact*= i
+    print(fact)
+cal(5)
+
+#WAF to convert USD to INR
+def conv(usd_val):
+    inr_val=usd_val * 83
+    print(usd_val,"USD =",inr_val,"INR ")
+conv(56)
+
+# Homework problem
+Number = int(input("Enter a number :"))
+def odd_even(Number):
+    if Number%2 == 0:
+        print("EVEN")
+    else:
+        print("ODD")
+odd_even(Number)
+
